@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -l | awk '{print $9}'
+ls  -l /home/ophirc  | awk '{print $1, $9;}'
