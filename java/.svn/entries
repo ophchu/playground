@@ -1,0 +1,42 @@
+10
+
+dir
+0
+http://tlvcode/svn/repos/Branches/hcdev/Data_Services/Hadoop/java/hadoop-benchmark/playground/java
+http://tlvcode/svn/repos
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9eb98b60-932c-0410-8272-f842bb75642b
+
+java.iml
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
